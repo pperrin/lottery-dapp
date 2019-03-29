@@ -1,0 +1,1 @@
+- Explain what measures you’ve taken to ensure that your contracts are not susceptible to common attacks

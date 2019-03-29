@@ -1,0 +1,2 @@
+- circuit breaker pattern (emergency stop)
+- what other design pattern you used?
