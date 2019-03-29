@@ -4,6 +4,3 @@
 [submodule "www"]
 	path = www
 	url = git@github.com:jimmychu0807/final-project-www.git
-[submodule "api"]
-	path = api
-	url = git@github.com:jimmychu0807/final-project-api.git
