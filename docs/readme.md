@@ -1,5 +1,7 @@
 # Readme
 
+![Lottery Pot Screenshot](./assets/lottery-pot-ss01.png)
+
 ### What does it do?
 
 Lottery dApp: [https://lottery.dapp.hkwtf.com/](https://lottery.dapp.hkwtf.com/)
