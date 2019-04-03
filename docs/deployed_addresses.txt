@@ -1,0 +1,18 @@
+testnet: rinkeby
+
+contracts:
+  LotteryPot:
+
+    txHash: 0x9f40b07d1c50c35280cf6c5991db44f26439a5d82cbeac43666412d4fb22a24e
+      inspection: https://rinkeby.etherscan.io/tx/0x9f40b07d1c50c35280cf6c5991db44f26439a5d82cbeac43666412d4fb22a24e
+
+    contractAddr: 0x7da31aE3DE34B329D48EA773fF290ad67f2135Aa
+      inspection: https://rinkeby.etherscan.io/address/0x7da31aE3DE34B329D48EA773fF290ad67f2135Aa
+
+  LotteryPotFactory:
+
+    txHash: 0x890d600f3cebc2f2b8d775de6943407450a7d8ed2ef30f2f1310660d2c81c533
+      inspection: https://rinkeby.etherscan.io/tx/0x890d600f3cebc2f2b8d775de6943407450a7d8ed2ef30f2f1310660d2c81c533
+
+    contractAddr: 0x7a231B1fA0c55BDe0dEB458Ad1485BFEAB64aC41
+      inspection: https://rinkeby.etherscan.io/address/0x7a231B1fA0c55BDe0dEB458Ad1485BFEAB64aC41
