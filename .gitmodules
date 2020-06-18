@@ -1,6 +1,6 @@
 [submodule "truffle"]
 	path = truffle
-	url = git@github.com:pperrin/lottery-dapp-truffle.git
+	url = https://github.com/pperrin/lottery-dapp-truffle.git
 [submodule "www"]
 	path = www
-	url = git@github.com:pperrin/lottery-dapp-www.git
+	url = https://github.com/pperrin/lottery-dapp-www.gitt
