@@ -7,3 +7,7 @@
 [submodule "OpenZeppelin"]
 	path = OpenZeppelin
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts.git
+[submodule "openzeppelin-contracts"]
+	path = openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts.git
+	branch = master
