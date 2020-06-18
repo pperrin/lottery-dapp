@@ -5,5 +5,5 @@
 	path = www
 	url = https://github.com/pperrin/lottery-dapp-www.git
 [submodule "OpenZeppelin"]
-	path = OPenZeppelin
+	path = OpenZeppelin
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts.git
