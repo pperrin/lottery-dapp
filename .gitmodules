@@ -3,4 +3,4 @@
 	url = https://github.com/pperrin/lottery-dapp-truffle.git
 [submodule "www"]
 	path = www
-	url = https://github.com/pperrin/lottery-dapp-www.gitt
+	url = https://github.com/pperrin/lottery-dapp-www.git
